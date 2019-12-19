@@ -1,0 +1,5 @@
+0;"buono"
+1;"consunto"
+2;"mancante"
+3;"scaricato"
+4;"obsoleto"

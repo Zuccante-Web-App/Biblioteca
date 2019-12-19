@@ -1,0 +1,4 @@
+0;"consunto"
+1;"mancante"
+2;"obsoleto"
+3;"consunto e obsoleto nei contenuti"
