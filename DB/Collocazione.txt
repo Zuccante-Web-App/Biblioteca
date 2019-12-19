@@ -1,0 +1,6 @@
+0;"Cinema"
+1;"Consultaz."
+2;"Critica"
+3;"Enciclop."
+4;"Venezia"
+5;"Vocabolari"
